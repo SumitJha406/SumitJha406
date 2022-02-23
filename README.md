@@ -19,7 +19,14 @@ I am software engineering student 🧑‍🎓 from India, I am passionate about 
 - NLP and computer vision
 
 
-### Thank you visiting
+### **contant me on-**
+
+[Linkedin](https://www.linkedin.com/in/sumit-jha-5ba227164/)
+
+
+
+
+### Thank you for visiting
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/SumitJha406/count.svg" />
