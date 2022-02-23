@@ -21,7 +21,7 @@ I am software engineering student 🧑‍🎓 from India, I am passionate about 
 
 ### **contant me on-**
 
-[Linkedin](https://www.linkedin.com/in/sumit-jha-5ba227164/)
+[Linkedin](https://www.linkedin.com/in/sumit-jha-5ba227164/) 🔗
 
 
 
