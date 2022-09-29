@@ -11,6 +11,10 @@ I am software engineering student 🧑‍🎓 from India, I am passionate about 
 **Languages and Tools:**
 
 - Python
+- Django
+- HTML
+- CSS
+- Javascript
 - SQL
 - C/C++ programming language
 - Numpy
@@ -21,7 +25,8 @@ I am software engineering student 🧑‍🎓 from India, I am passionate about 
 
 ### **contant me on-**
 
-[Linkedin](https://www.linkedin.com/in/sumit-jha-5ba227164/) 🔗
+- [Linkedin](https://www.linkedin.com/in/sumit-jha-5ba227164/) 🔗
+- [Portfolio](https://sumitjha406.github.io/sumit-portfolio/)
 
 
 
