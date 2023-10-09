@@ -6,7 +6,7 @@
 ## About me
 I am software engineering student 🧑‍🎓 from India, I am passionate about Machine learning  and its applications.
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/SumitJha406.gif?z=6)](https://github4life.herokuapp.com/SumitJha406)
+
 
 **Languages and Tools:**
 
